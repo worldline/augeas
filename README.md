@@ -1,5 +1,6 @@
 Introduction
 ------------
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/worldline/augeas?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
   Augeas is a library and command line tool that focuses on the most basic
   problem in handling Linux configurations programmatically: editing actual
